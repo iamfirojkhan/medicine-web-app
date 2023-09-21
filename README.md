@@ -33,8 +33,9 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
+![home](https://github.com/iamfirojkhan/medicine-web-app/assets/99415418/bfc8b6cb-155b-4343-96a7-e974e7194244)
 
-![Screen Shot](images/screenshot.png)
+
 
 The software product developed is a web-based system that functions is to buy and sell medicines. The product is created with the intention to provide ease to customers for buying medicines without visiting the shops. The product works with other databases to extract and store medicine's information.
 
